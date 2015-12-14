@@ -16,6 +16,8 @@
 		7010FB7D1C1E71A200C4A6C1 /* Pokemon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7010FB7C1C1E71A200C4A6C1 /* Pokemon.swift */; };
 		7010FB801C1E78DC00C4A6C1 /* PokeCellCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7010FB7F1C1E78DC00C4A6C1 /* PokeCellCollectionViewCell.swift */; };
 		7010FB831C1E7D9200C4A6C1 /* CSV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7010FB821C1E7D9200C4A6C1 /* CSV.swift */; };
+		7010FB881C1E808200C4A6C1 /* Pokemon.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7010FB871C1E808200C4A6C1 /* Pokemon.ttf */; };
+		7010FB8C1C1E843D00C4A6C1 /* music.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7010FB8B1C1E843D00C4A6C1 /* music.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +32,8 @@
 		7010FB7C1C1E71A200C4A6C1 /* Pokemon.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Pokemon.swift; sourceTree = "<group>"; };
 		7010FB7F1C1E78DC00C4A6C1 /* PokeCellCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PokeCellCollectionViewCell.swift; sourceTree = "<group>"; };
 		7010FB821C1E7D9200C4A6C1 /* CSV.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CSV.swift; sourceTree = "<group>"; };
+		7010FB871C1E808200C4A6C1 /* Pokemon.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Pokemon.ttf; sourceTree = "<group>"; };
+		7010FB8B1C1E843D00C4A6C1 /* music.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = music.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +115,8 @@
 		7010FB851C1E7DB500C4A6C1 /* Resource */ = {
 			isa = PBXGroup;
 			children = (
+				7010FB8B1C1E843D00C4A6C1 /* music.mp3 */,
+				7010FB871C1E808200C4A6C1 /* Pokemon.ttf */,
 				7010FB791C1E67D200C4A6C1 /* pokemon.csv */,
 			);
 			name = Resource;
@@ -176,6 +182,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				7010FB721C1E667300C4A6C1 /* LaunchScreen.storyboard in Resources */,
+				7010FB881C1E808200C4A6C1 /* Pokemon.ttf in Resources */,
+				7010FB8C1C1E843D00C4A6C1 /* music.mp3 in Resources */,
 				7010FB6F1C1E667300C4A6C1 /* Assets.xcassets in Resources */,
 				7010FB7A1C1E67D200C4A6C1 /* pokemon.csv in Resources */,
 				7010FB6D1C1E667300C4A6C1 /* Main.storyboard in Resources */,
